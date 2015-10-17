@@ -23,7 +23,7 @@ Try Letter Avatar at [Appstore](https://itunes.apple.com/us/app/letter-avatar/id
 
 [CocoaPods](http://cocoapods.org) is the recommended way to add NVZoomBounceButton to your project.
 
-1. Add a pod entry for MBProgressHUD to your Podfile `pod 'NVZoomBounceButton'`
+1. Add a pod entry for NVZoomBounceButton to your Podfile `pod 'NVZoomBounceButton'`
 2. Install the pod(s) by running `pod install`.
 3. Include NVZoomBounceButton wherever you need it with `#import <NVZoomBounceButton.h>`.
 
