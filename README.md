@@ -1,6 +1,9 @@
 # NVZoomBounceButton
+[![Pod Version](https://img.shields.io/cocoapods/v/NVZoomBounceButton.svg?style=flat)](http://cocoadocs.org/docsets/NVZoomBounceButton/)
+[![Pod Platform](https://img.shields.io/cocoapods/p/NVZoomBounceButton.svg?style=flat)](http://cocoadocs.org/docsets/NVZoomBounceButton/)
+[![Pod License](https://img.shields.io/cocoapods/l/NVZoomBounceButton.svg?style=flat)](http://cocoadocs.org/docsets/NVZoomBounceButton)
 
-Create zoom and bounce effect for your UIButton
+Create zoom and bounce effect for your UIButton. Compatible with iOS 7 and higher.
 
 
 ## Demo
@@ -15,6 +18,14 @@ Try Letter Avatar at [Appstore](https://itunes.apple.com/us/app/letter-avatar/id
 
 
 ## Adding NVZoomBounceButton to your project
+
+### Cocoapods
+
+[CocoaPods](http://cocoapods.org) is the recommended way to add NVZoomBounceButton to your project.
+
+1. Add a pod entry for MBProgressHUD to your Podfile `pod 'NVZoomBounceButton'`
+2. Install the pod(s) by running `pod install`.
+3. Include NVZoomBounceButton wherever you need it with `#import <NVZoomBounceButton.h>`.
 
 ### Source files
 
