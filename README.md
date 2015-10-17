@@ -5,11 +5,12 @@ Create zoom and bounce effect for your UIButton
 
 ## Demo
 
+### Real Application
 Try Letter Avatar at [Appstore](https://itunes.apple.com/us/app/letter-avatar/id1047376144?ls=1&mt=8)
 
+### Screenshots
 <p align="center">
-<img src="Screenshots/screenshot_1.gif" width="50%">&nbsp;
-<img src="Screenshots/screenshot_2.gif" width="50%">&nbsp;
+<img src="Screenshots/screenshot_1.gif" width="200" height="200"><img src="Screenshots/screenshot_2.gif" width="200" height="200">
 </p>
 
 
